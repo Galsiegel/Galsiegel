@@ -15,7 +15,8 @@
 
 <br />
 
-Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student at Technion. all the repositries in this profile are mini projects I did as part of my studies or self practice projects ✌
+Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student at Technion.
+All the repositries in this profile are mini projects I did as part of my studies or as self practice projects ✌
 
 
 **Talking about Personal Stuffs:**
@@ -26,11 +27,11 @@ Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student 
 - 📫 How to reach me: Any of the Social-Media Platforms
 
 **Languages and Tools:**
+C, C++, bash, SystemVerilog, assembly.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+But here I mainly use:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galsiegel)](https://github.com/Galsiegel/github-readme-stats)
 
-![Gal Siegel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galsiegel&show_icons=true&hide_border=true)
+
