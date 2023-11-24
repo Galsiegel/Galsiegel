@@ -17,13 +17,11 @@
 
 Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student at Technion. all the repositries in this profile are mini projects I did as part of my studies or self practice projects ✌
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 🔭 Computer and Software Engineering student at Technion.
-- 🌱 I’m currently learning Angular.
-- 👯 involved in several social projects such as [this](https://www.linkedin.com/feed/update/urn:li:activity:7128694776446500865/) .
+- 👯 involved in several [social projects](https://www.linkedin.com/feed/update/urn:li:activity:7128694776446500865/) .
 - 💬 Ask me about anything, I would love to answer.
 - 📫 How to reach me: Any of the Social-Media Platforms
 
@@ -31,7 +29,7 @@ Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/68b23f95778a2cbde8f0e01885b5091e2a3c9c5b/topics/verilog/verilog.png"></code>
+<code><img height="20" src="[https://raw.githubusercontent.com/github/explore/68b23f95778a2cbde8f0e01885b5091e2a3c9c5b/topics/verilog/verilog.png](https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.4/1691914426421/Microsoft.VisualStudio.Services.Icons.Default)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/68b23f95778a2cbde8f0e01885b5091e2a3c9c5b/topics/assembly/assembly.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
