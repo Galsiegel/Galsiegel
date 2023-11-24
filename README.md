@@ -29,9 +29,10 @@ Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="[https://raw.githubusercontent.com/github/explore/68b23f95778a2cbde8f0e01885b5091e2a3c9c5b/topics/verilog/verilog.png](https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.4/1691914426421/Microsoft.VisualStudio.Services.Icons.Default)"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/verilog/verilog.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/68b23f95778a2cbde8f0e01885b5091e2a3c9c5b/topics/assembly/assembly.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Gal Siegel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Gal Siegel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galsiegel&show_icons=true&hide_border=true)
