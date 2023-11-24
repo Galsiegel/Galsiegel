@@ -29,8 +29,7 @@ Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/verilog/verilog.png](https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true)"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/68b23f95778a2cbde8f0e01885b5091e2a3c9c5b/topics/assembly/assembly.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
