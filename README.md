@@ -6,9 +6,9 @@ Hi, I'm Gal Siegel 🙌, a Third-year Computer and Software Engineering student 
 All the repositries in this profile are mini projects I did as part of my studies or as self practice projects ✌
 
 
-**Talking about Personal Stuffs:**
 
-- 🔭 Computer and Software Engineering student at Technion.
+
+- 🔭 Currently a Computer and Software Engineering student at Technion.
 - 👯 involved in several [social projects](https://www.linkedin.com/feed/update/urn:li:activity:7128694776446500865/) .
 - 💬 Ask me about anything, I would love to answer.
 
