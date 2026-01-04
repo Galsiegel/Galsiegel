@@ -3,7 +3,7 @@
 - **LOGICOM_LEGACY** — https://github.com/Galsiegel/LOGICOM_LEGACY  
   - **Language:** Python  
   - **Overview:** A modular **LOGICOM** architecture for LLM evaluation - simulating and analyzing **structured debates between AI agents**. 
-  - **Tools:** OpenAI/Gemini + local backends, agent watchdogs. 
+  - **Tools:** OpenAI/Gemini API + local backends, agent watchdogs. 
   - **Status:** In Final evaluation stage and cleanup.
     
 - **deep_final_project** — https://github.com/Galsiegel/deep_final_project  
