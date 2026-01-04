@@ -11,7 +11,7 @@
   - **Overview:** Deep learning pipeline for stock price prediction - market time-series data with financial news embeddings.
   - **Tools:** Pytorch, HuggingFace, TensorBoard, Goolge Colab (unfortonatelly).
   - **Status:** Work in progress — early development stage.
-  - 
+
 - **Optigrade** — https://github.com/Galsiegel/Optigrade  
   - **Language:** Python  
   - **Overview:** Degree-planning optimization framework using constraint programming. 
